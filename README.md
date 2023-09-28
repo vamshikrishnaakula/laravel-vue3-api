@@ -1,8 +1,12 @@
 # laravel-vue3-api
 To run the project 
 composer install
+
+
 //for node modules
 npm install or yarn install
+
+
 and to run vue
 npm run dev or yarn dev
 Dail screen
